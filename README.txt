@@ -64,10 +64,10 @@ https://www.linkedin.com/in/julian-bauza/
 Pipeline de datos (SQL Server) + dashboard en Power BI para explorar asociaciones en un conjunto de estudiantes.
 
 ## 🔎 Demo (capturas)
-![Overview](docs/img/overview.png)
-![Drivers](docs/img/drivers.png)
-![Sleep & Preassure](docs/img/decomposition-tree.png)
-![About](docs/img/about.png)
+![Overview](Documents/Screenshots/PowerBI - Overview.png)
+![Drivers](Documents/Screenshots/PowerBI - Drivers.png)
+![Sleep & Preassure](Documents/Screenshots/PowerBI - Sleep & Study.png)
+![ST Thoughts](Documents/Screenshots/PowerBI - SThoughts.png)
 
 ## 🧱 Arquitectura (stg → cln → gold)
 - **/Sql/00_Staging-Profiling.sql**: carga y perfilado inicial.
