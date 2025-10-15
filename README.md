@@ -22,6 +22,12 @@ Data pipeline (SQL Server) + Power BI dashboard to explore associations in a stu
 3. **Decomposition Tree**: guided exploration (Sleep → Pressure → Satisfaction → Financial Stress → Gender → Family History).
 4. **About**: pipeline description and a simple stg→cln→gold→BI diagram.
 
+ ## Demo (capturas)
+![Overview](Documents/Screenshots/PowerBI%20-%20Overview.png)
+![Drivers](Documents/Screenshots/PowerBI%20-%20Drivers.png)
+![SleepStudy](Documents/Screenshots/PowerBi%20-%20SleepStudy.png)
+![ST Thoughts](Documents/Screenshots/PowerBI%20-%20SThoughts.png)
+
 ### Dashboard notices
 - “This dashboard shows associations; **it does not prove causality**.”
 - “If you or someone you know needs help, please reach out to local resources.”
@@ -67,10 +73,10 @@ https://www.linkedin.com/in/julian-bauza/
 Pipeline de datos (SQL Server) + dashboard en Power BI para explorar asociaciones en un conjunto de estudiantes.
 
 ## Demo (capturas)
-![Overview](docs/img/overview.png)
-![Drivers](docs/img/drivers.png)
-![Sleep & Preassure](docs/img/decomposition-tree.png)
-![About](docs/img/about.png)
+![Overview](Documents/Screenshots/PowerBI%20-%20Overview.png)
+![Drivers](Documents/Screenshots/PowerBI%20-%20Drivers.png)
+![SleepStudy](Documents/Screenshots/PowerBi%20-%20SleepStudy.png)
+![ST Thoughts](Documents/Screenshots/PowerBI%20-%20SThoughts.png)
 
 ## Arquitectura (stg → cln → gold)
 - **/Sql/00_Staging-Profiling.sql**: carga y perfilado inicial.
@@ -121,10 +127,4 @@ SQL Server · Power BI · DAX básico · Power Query (M) · Modelado estrella (v
 ## 👋 Contacto
 Julián B. — Data & BI
 https://www.linkedin.com/in/julian-bauza/
-
-
-![Overview](Documents/Screenshots/PowerBI%20-%20Overview.png)
-![Drivers](Documents/Screenshots/PowerBI%20-%20Drivers.png)
-![Sleep & Study](Documents/Screenshots/PowerBI%20-%20Sleep%20%26%20Study.png)
-![ST Thoughts](Documents/Screenshots/PowerBI%20-%20SThoughts.png)
 
