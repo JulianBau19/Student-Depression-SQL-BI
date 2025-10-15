@@ -121,3 +121,9 @@ SQL Server · Power BI · DAX básico · Power Query (M) · Modelado estrella (v
 ## 👋 Contacto
 Julián B. — Data & BI
 https://www.linkedin.com/in/julian-bauza/
+
+
+![Overview](Documents/Screenshots/PowerBI - Overview.png)
+![Drivers](Documents/Screenshots/PowerBI - Drivers.png)
+![Sleep & Preassure](Documents/Screenshots/PowerBI - Sleep & Study.png)
+![ST Thoughts](Documents/Screenshots/PowerBI - SThoughts.png)
