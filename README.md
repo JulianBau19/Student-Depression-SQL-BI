@@ -123,7 +123,8 @@ Julián B. — Data & BI
 https://www.linkedin.com/in/julian-bauza/
 
 
-![Overview](Documents/Screenshots/PowerBI - Overview.png)
-![Drivers](Documents/Screenshots/PowerBI - Drivers.png)
-![Sleep & Preassure](Documents/Screenshots/PowerBI - Sleep & Study.png)
-![ST Thoughts](Documents/Screenshots/PowerBI - SThoughts.png)
+![Overview](Documents/Screenshots/PowerBI%20-%20Overview.png)
+![Drivers](Documents/Screenshots/PowerBI%20-%20Drivers.png)
+![Sleep & Study](Documents/Screenshots/PowerBI%20-%20Sleep%20%26%20Study.png)
+![ST Thoughts](Documents/Screenshots/PowerBI%20-%20SThoughts.png)
+
